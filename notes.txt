@@ -1,3 +1,4 @@
 echo "This is my first commit";
 echo "This is my second commit";
 echo "This is my third commit";
+echo "This is my fourth commit";
